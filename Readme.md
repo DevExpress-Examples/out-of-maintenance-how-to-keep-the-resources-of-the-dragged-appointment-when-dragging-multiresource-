@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Program.cs](./CS/Program.cs)
+<!-- default file list end -->
 # How to keep the resources of the dragged appointment when dragging multiresource appointments
 
 
